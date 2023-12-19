@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Prime/bin/Debug/net7.0/Prime
+/Users/macos/Desktop/Operator/Prime/bin/Debug/net7.0/Prime.deps.json
+/Users/macos/Desktop/Operator/Prime/bin/Debug/net7.0/Prime.runtimeconfig.json
+/Users/macos/Desktop/Operator/Prime/bin/Debug/net7.0/Prime.dll
+/Users/macos/Desktop/Operator/Prime/bin/Debug/net7.0/Prime.pdb
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/Prime.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/Prime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/Prime.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/Prime.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/Prime.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/Prime.dll
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/refint/Prime.dll
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/Prime.pdb
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/Prime.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Prime/obj/Debug/net7.0/ref/Prime.dll
